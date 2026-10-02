@@ -1,0 +1,6 @@
+target/
+*.xlsx
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
